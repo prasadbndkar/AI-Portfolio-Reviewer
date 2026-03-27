@@ -1,5 +1,5 @@
 # AI-Portfolio-Reviewer
-This is RAG based AI Portfolio Reviewer, which helps users in fetching information about specific candidate from Vector Database.
+This is RAG based AI Portfolio Reviewer, which helps users in summarizing, reviewing any candidates Portfolio.
 The **Architecture** comprises following modules
   -  Knowledge Base / List of Source Files
   -  Metdata Filter to Narrow down Knowledge Base to Specific candidate
@@ -17,6 +17,11 @@ The **Architecture** comprises following modules
   -  Vector Store is built across queried Candidate Name
   -  LLM Generate Answer using provided Vector Store and as per System Instruction Provided in Prompt Template
   -  LLM's response is Parsed through Output Pareser
+
+**Future Scope**
+  - Provide Citation for RAG response
+  - Summarize & Evaluate Candidates Portofolio against Organizations Job Description for ATS Scores
+  - Summarize & Evaluate Candidates Portfolio against another candidate
 
 Response
 <img width="952" height="332" alt="Response 1" src="https://github.com/user-attachments/assets/e050412c-a24b-4a16-a7c7-e457c2833b4d" />
