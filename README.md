@@ -20,7 +20,7 @@ The **Architecture** comprises following modules
 
 **Future Scope**
   - Provide Citation for RAG response
-  - Summarize & Evaluate Candidates Portofolio against Organizations Job Description for ATS Scores
+  - Summarize & Evaluate Candidates Portofolio against Organizations Job Description for ATS Scoring
   - Summarize & Evaluate Candidates Portfolio against another candidate
 
 Response
