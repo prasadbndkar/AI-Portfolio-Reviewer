@@ -17,3 +17,7 @@ The **Architecture** comprises following modules
   -  Vector Store is built across queried Candidate Name
   -  LLM Generate Answer using provided Vector Store and as per System Instruction Provided in Prompt Template
   -  LLM's response is Parsed through Output Pareser
+
+Response
+<img width="952" height="332" alt="Response 1" src="https://github.com/user-attachments/assets/e050412c-a24b-4a16-a7c7-e457c2833b4d" />
+<img width="913" height="430" alt="Response 2" src="https://github.com/user-attachments/assets/b698fa8d-7858-4cb8-9eaa-fe8f0bea99de" />
