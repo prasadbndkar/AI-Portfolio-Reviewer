@@ -1,5 +1,5 @@
 # AI-Portfolio-Reviewer
-This is RAG based AI Portfolio Reviewer, which helps users in summarizing, reviewing any candidates Portfolio.
+This is RAG based AI Portfolio Reviewer, which helps users in summarizing, reviewing any candidates Portfolio.\n
 The **Architecture** comprises following modules
   -  Knowledge Base / List of Source Files
   -  Metdata Filter to Narrow down Knowledge Base to Specific candidate
